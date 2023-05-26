@@ -24,6 +24,7 @@ function addX(x) {
   return x + 'X'
 }
 
+
 function add10(x) {
   return x + '10'
 }
